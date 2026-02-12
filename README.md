@@ -47,7 +47,7 @@ It also includes easy combo examples:
 - `12_movement_pixels_tilt.ino`
 - `13_thermo_pixels_heatbar.ino`
 - `14_distance_buttons_buzzer_theremin_scale/14_distance_buttons_buzzer_theremin_scale.ino`
-- `15_moisture_pixels_bar.ino`
+- `15_moisture_pixels_bar/15_moisture_pixels_bar.ino`
 
 ## Moisture Sensor (Script 15)
 
@@ -59,4 +59,10 @@ Wire capacitive moisture sensor v1.2 like this:
 
 Then open:
 
-- `15_moisture_pixels_bar.ino`
+- `15_moisture_pixels_bar/15_moisture_pixels_bar.ino`
+
+Calibration in script 15:
+
+- Press **Button 1** for DRY calibration, then wait 3 seconds.
+- Press **Button 2** for WET calibration, then wait 3 seconds.
+- Press **Button 3** to print current calibration values.
