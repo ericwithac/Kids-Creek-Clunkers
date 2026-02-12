@@ -46,4 +46,17 @@ It also includes easy combo examples:
 - `11_distance_buzzer_theremin.ino`
 - `12_movement_pixels_tilt.ino`
 - `13_thermo_pixels_heatbar.ino`
-- `14_distance_buttons_buzzer_theremin_scale.ino`
+- `14_distance_buttons_buzzer_theremin_scale/14_distance_buttons_buzzer_theremin_scale.ino`
+- `15_moisture_pixels_bar.ino`
+
+## Moisture Sensor (Script 15)
+
+Wire capacitive moisture sensor v1.2 like this:
+
+- `AOUT` -> `A0`
+- `VCC` -> `5V`
+- `GND` -> `GND`
+
+Then open:
+
+- `15_moisture_pixels_bar.ino`
