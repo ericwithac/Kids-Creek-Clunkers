@@ -46,12 +46,4 @@ It also includes easy combo examples:
 - `11_distance_buzzer_theremin.ino`
 - `12_movement_pixels_tilt.ino`
 - `13_thermo_pixels_heatbar.ino`
-
-## Local compile testing in this workspace
-
-This environment cannot download the real Modulino library from the internet,
-so compile testing here uses a tiny local mock library at:
-
-- `_mock_modulino_library`
-
-That verifies sketch syntax and structure, but not real hardware behavior.
+- `14_distance_buttons_buzzer_theremin_scale.ino`
